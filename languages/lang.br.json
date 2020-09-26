@@ -1,0 +1,10 @@
+{
+    "client": "Linguagens:|Prefixo:",
+    "prefix": "Especifique o prefixo! OBS: Maximo de 5 digitos!",
+    "language": "Selecione sua linguagem %l | Linguagem (%r) Não encontrada. Use | Russian - ru | English - en | Portugues - br",
+    "ping": "Ping do bot: | Ping da Api",
+    "balance": "Money: %d |XP: %d | Balance: ",
+    "addmoney": "Indique um numero para adicionar | Você adicionou  %d %a coins$",
+    "help": " Comando: | Aliases: | Usagem: | Descrição: | Categoria: " ,
+    "msgmen": "WuZi Mu... Execute | para ter uma listagem dos comandos! | Idioma: Atualmente estou no idioma:"
+}

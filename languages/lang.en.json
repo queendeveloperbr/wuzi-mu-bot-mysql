@@ -1,0 +1,10 @@
+{
+    "client": "Language:|Bot-prefix:",
+    "prefix": "Specify the new prefix you want to put. | The prefix cannot be more than 5 values.",
+    "language": "Select one of the available languages %l | The specified (%r) element was not found. Select an available | Russian - ru | English - en",
+    "ping": "Client-ping: | Discord-ping",
+    "balance": "Money: %d |XP: %d | Balance: ",
+    "addmoney": "Indicate the number of coins you want to add | You have successfully added %d %a coins$",
+    "help": " Command name: | Installed Aliases: | Usage: | Description: | Category: ",
+    "msgmen": "WuZi Mu... Run | to get a listing of the commands! | Language: I am currently in the language:"
+}
